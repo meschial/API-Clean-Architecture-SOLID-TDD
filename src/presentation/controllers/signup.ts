@@ -1,4 +1,4 @@
 export class SignUpController{
-  handle(httpR
+  handle(httpRequest
   }
 }
